@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Downloader">
+</Property><Property Name="File di soluzione" Value="C:\Progetti\MyProgetti\Downloader\Downloader\Downloader.sln">
+</Property><Property Name="File di opzioni utente" Value="C:\Progetti\MyProgetti\Downloader\Downloader\Downloader.suo">
+</Property><Property Name="Date" Value="lunedì 4 aprile 2011">
+</Property><Property Name="Time" Value="22:03">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Downloader.sln" Description="File salvato come C:\Progetti\MyProgetti\Downloader\Downloader\Backup\Downloader.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Downloader.suo" Description="File salvato come C:\Progetti\MyProgetti\Downloader\Downloader\Backup\Downloader.suo">
+</Event><Event ErrorLevel="0" Project="Downloader" Source="Downloader.csproj" Description="Backup del file di progetto creato con nome C:\Progetti\MyProgetti\Downloader\Downloader\Backup\Downloader.csproj">
+</Event><Event ErrorLevel="0" Project="Downloader" Source="Program.cs" Description="Backup del file creato con nome C:\Progetti\MyProgetti\Downloader\Downloader\Backup\Program.cs">
+</Event><Event ErrorLevel="0" Project="Downloader" Source="Properties\AssemblyInfo.cs" Description="Backup del file creato con nome C:\Progetti\MyProgetti\Downloader\Downloader\Backup\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Downloader" Source="Properties\Settings.Designer.cs" Description="Backup del file creato con nome C:\Progetti\MyProgetti\Downloader\Downloader\Backup\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Downloader" Source="Utils.cs" Description="Backup del file creato con nome C:\Progetti\MyProgetti\Downloader\Downloader\Backup\Utils.cs">
+</Event><Event ErrorLevel="0" Project="Downloader" Source="app.config" Description="Backup del file creato con nome C:\Progetti\MyProgetti\Downloader\Downloader\Backup\app.config">
+</Event><Event ErrorLevel="0" Project="Downloader" Source="Properties\Settings.settings" Description="Backup del file creato con nome C:\Progetti\MyProgetti\Downloader\Downloader\Backup\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="Downloader" Source="Downloader.csproj" Description="Conversione progetto riuscita">
+</Event><Event ErrorLevel="3" Project="Downloader" Source="Downloader.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Downloader.sln" Description="Soluzione convertita correttamente">
+</Event><Event ErrorLevel="3" Project="" Source="Downloader.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Downloader" Source="Downloader.csproj" Description="Analisi completata. Non è richiesto alcun aggiornamento per i file di progetto.">
+</Event></UpgradeLog>

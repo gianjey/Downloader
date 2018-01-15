@@ -1,0 +1,12 @@
+C:\Progetti\MyProgetti\Downloader\Downloader\bin\Release\Downloader.exe.config
+C:\Progetti\MyProgetti\Downloader\Downloader\bin\Release\Downloader.exe
+C:\Progetti\MyProgetti\Downloader\Downloader\bin\Release\Downloader.pdb
+C:\Progetti\MyProgetti\Downloader\Downloader\obj\Release\ResolveAssemblyReference.cache
+C:\Progetti\MyProgetti\Downloader\Downloader\obj\Release\Downloader.exe
+C:\Progetti\MyProgetti\Downloader\Downloader\obj\Release\Downloader.pdb
+E:\Progetti\MyProgetti\Downloader\Downloader\bin\Release\Downloader.exe.config
+E:\Progetti\MyProgetti\Downloader\Downloader\obj\Release\Downloader.exe
+E:\Progetti\MyProgetti\Downloader\Downloader\obj\Release\Downloader.pdb
+E:\Progetti\MyProgetti\Downloader\Downloader\bin\Release\Downloader.exe
+E:\Progetti\MyProgetti\Downloader\Downloader\bin\Release\Downloader.pdb
+E:\Progetti\MyProgetti\Downloader\Downloader\obj\Release\Downloader.csprojResolveAssemblyReference.cache

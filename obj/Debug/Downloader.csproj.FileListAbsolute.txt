@@ -1,0 +1,6 @@
+C:\Progetti\MyProgetti\Downloader\Downloader\obj\Debug\ResolveAssemblyReference.cache
+C:\Progetti\MyProgetti\Downloader\Downloader\bin\Debug\Downloader.exe.config
+C:\Progetti\MyProgetti\Downloader\Downloader\bin\Debug\Downloader.exe
+C:\Progetti\MyProgetti\Downloader\Downloader\bin\Debug\Downloader.pdb
+C:\Progetti\MyProgetti\Downloader\Downloader\obj\Debug\Downloader.exe
+C:\Progetti\MyProgetti\Downloader\Downloader\obj\Debug\Downloader.pdb
